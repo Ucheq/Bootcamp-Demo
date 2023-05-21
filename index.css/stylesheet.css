@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.text-center button {
+    background-color: #203746;
+}
+
+h1 {
+ color: #000080;
+}
+
+.row img {
+    width: 100%;
+    height: auto;
+    background-size: contain;
+    margin-top: 30px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#nil {
+    padding-left: 200px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    color: #020246;
+}
+
+#nil .buy {
+    display: flex;
+   margin: -15px;
+}
+
+#my {
+    padding-left: 80px;
+    color: #020246;
+    font-weight: bold;
+}
+
+.carousel-inner > .carousel-item > img {
+    width: 500px;
+    height: 700px;
+}
+
+.carousel-caption p {
+    text-decoration: #020246;
+}
+
+#serv {
+    margin-top: 50px;
+}
+
+#imgs{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 2px;
+    padding-left: 10px;
+}
+
+#imgs img {
+    display: block;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+}
